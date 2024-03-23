@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate fullstack developer currently studying computer science & business administration at USC.</h3>
 
+- 🔭 I’m currently working with **AI and Spatial Computing**
+
+- 🌱 I’m currently learning **Next, Swift, and PHP**
+
 - 📫 How to reach me **rchang05@usc.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13DESARmNimiHNdGrFNQj_PFr_x9YMnmD/view?usp=sharing](https://drive.google.com/file/d/13DESARmNimiHNdGrFNQj_PFr_x9YMnmD/view?usp=sharing)
