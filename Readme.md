@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **AI and Spatial Computing**
 
-- 🌱 I’m currently learning **Next, Swift, and PHP**
+- 🌱 I’m currently learning **Next, Swift, and Kotlin**
 
 - 📫 How to reach me **rchang05@usc.edu**
 
@@ -16,4 +16,3 @@
 <a href="https://linkedin.com/in/ryan-chang-r3642370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-chang-r3642370" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnahcnayr&show_icons=true&locale=en" alt="gnahcnayr" /></p>
