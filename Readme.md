@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, I'm ryan</h1>
-<h3 align="center">A passionate fullstack developer currently studying computer science & business administration at USC.</h3>
+<h3 align="center">a passionate fullstack developer currently studying computer science & business administration at usc.</h3>
 
 - 🔭 I’m currently working with **AI and Spatial Computing**
 
