@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **AI and Spatial Computing**
 
-- 🌱 I’m currently learning **Next and Swify**
+- 🌱 I’m currently learning **Next and Swift**
 
 - 📫 How to reach me **rchang05@usc.edu**
 
