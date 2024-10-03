@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rchang05@usc.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13DESARmNimiHNdGrFNQj_PFr_x9YMnmD/view?usp=sharing](https://drive.google.com/file/d/13DESARmNimiHNdGrFNQj_PFr_x9YMnmD/view?usp=sharing)](https://drive.google.com/file/d/17XlEfvECxSMIS23WFzVAYgnov1psXdiP/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AhsjjokYQF1qA3t9fV7SThSZbho97jE7/view?usp=drive_link)]
 
 - ⚡ In my free time, I love **Pokémon Go, JDM cars, vintage tech, and learning new things (currently learning the guitar)**.
   
