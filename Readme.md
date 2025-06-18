@@ -1,15 +1,15 @@
 <h1 align="center">hi 👋, I'm ryan</h1>
-<h3 align="center">a passionate fullstack developer currently studying computer science & business administration at usc.</h3>
+<h3 align="center">i like building and breaking things // @usc studying cs & business</h3>
 
-- 🔭 I’m currently working with **AI and Spatial Computing**
+- 🔭 I’m currently working with **AI & Design**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift and Chess**
 
-- 📫 How to reach me **rchang05@usc.edu**
+- 📫 Reach me **rchang05@usc.edu**
 
 - 📄 Know about my experiences [here](https://rchang.vercel.app)
 
-- ⚡ In my free time, I love **Pokémon Go, JDM cars, vintage tech, and learning new things**.
+- ⚡ In my free time, I love **Pokémon Go, Thrifting, JDM cars, vintage tech, and learning new things**.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
