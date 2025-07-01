@@ -2,7 +2,7 @@
 <h3 align="center">i like building and breaking things // @usc studying cs & business</h3>
 
 <p align="center">
-  - 🧠 building with <strong>AI, Swift, and vibes</strong><br> 
+  - 🧠 building with <strong>AI, Swift</strong><br> 
   - 🧢 thrift demon + pokémon go enjoyer
 </p>
 
